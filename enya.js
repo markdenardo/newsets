@@ -1,0 +1,5 @@
+const f = (()=>a.fft[0])
+const osc1 =(()=>osc(-10,0.1,-1))
+s0.initVideo("https://media1.giphy.com/media/DkleR7V8RMtrim0cH5/giphy.mp4")
+src(s0).modulateScrollX(osc1()).pixelate(50,50).modulate(o0,).out(o0)
+render(o0)
